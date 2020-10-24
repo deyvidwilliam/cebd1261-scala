@@ -1,2 +1,2 @@
-CEBD 1261 - Scala (Exercises Week4) 
+CEBD 1261 - Exercises Week4-Scala1
 
